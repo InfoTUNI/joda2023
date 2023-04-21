@@ -5,3 +5,4 @@ lectures/lecture02/data/
 .data/
 demo/tweet_classifier/data/
 demo/tweet_classifier/venv/
+demo/association_rule_mining/.venv/
