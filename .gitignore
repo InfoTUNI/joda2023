@@ -6,3 +6,4 @@ lectures/lecture02/data/
 demo/tweet_classifier/data/
 demo/tweet_classifier/venv/
 demo/association_rule_mining/.venv/
+lectures/lecture07/data/hourly_taxi_data.npz
